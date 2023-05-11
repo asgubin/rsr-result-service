@@ -4,5 +4,6 @@ SOAP web-service. Модуль для чтения бинарного файла
 ### Используемые технологии:
  - Java EE
  - SOAP
+ - TomCat
  - Kaitai Struct
  - Maven
